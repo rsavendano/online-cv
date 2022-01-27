@@ -7,59 +7,55 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Roger Avendano
+    tagline: Chief Systems Engineer / Enterprise Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: RA2925@gmail.com
+    phone: 571-766-8755
+    # website: blog.webjeda.com #do not add http://
+    linkedin: rogeravendano
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://1drv.ms/b/s!AkipEKhrFjh_g7YHGyXS34JdxD47vA?e=ubQjvY
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Dancing
         link:
 
       - item: Cooking
         link:
 
+      - item: Web Development
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Results-driven systems architect and engineer as it relates to Communication Systems (SATCOM, Network TCP/IP, LOS), multi-tier applications, and Public Cloud offerings (AWS, Azure, Akamai). 
+      Mission focused leader with the ability to lead and influence direct-reports and external teams. 
+      Enjoy forecasting and creating strategic plans and product roadmaps to enable customer success and mission execution. 
+      Experienced in agile methodologies such as: Kanban, Scrum, and SAFe.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MEng in Systems Engineering
+      university: Stevens Institute of Technology
+      time: 2016 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +64,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Electrical Engineering
+      university: New York University
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,113 +76,110 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Chief Systems Engineer / Enterprise Architect
+      time: 2021 - Present
+      company: Leidos, Fort Detrick, MD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Support the US Army Medical Research Development Command to develop solutions and systems that meet FDA regulations and policies. 
+        Lead a team of 5 engineers to design, develop, integrate, and support various products across the organization. 
+          - Responsible for the architectural governance for the program
+          - Create diagrams compliant with DoDAF and Unified Architecture Framework
+          - Responsible for the Systems Engineering process and management
+          - Perform SQL queries to update, sort, and display information
+
+    - role: Systems Engineer / Solutions Architect
+      time: March 2020 – September 2021 
+      company: Raytheon Intelligence & Space, Dulles, VA 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Engaged with customers to understand the customers’ needs, business needs, and CONOPS for CONUS and OCONUS systems
+          - Prototyped (PoC), tested, and supported cloud-native solutions/products
+          - Provided technology leadership and strategy, including inputs to new capabilities, technical readiness, based on emerging technologies
+          - Developed standards, roadmaps, and provide direction across multiple business units
+          - Provided final technical recommendations with regards to architectures/solutions to customer(s)
+
+    - role: Communication Systems Architect Lead
+      time: March 2018 – March 2020 
+      company: Northrop Grumman Corporation, Melbourne, FL 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - Created and verified architectures that provided the blueprint for the engineering teams based on the goals, objectives, and requirements
+        - Demonstrated expertise and success in managing teams/design and delivering architectural solutions to meet platform requirements
+        - Successfully presented and generated content for customer presentations
+        - Adjudicated design artifacts, customer deliverables, and design decisions
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#projects:
+ #   title: Projects
+  #  intro: >
+   #   You can list your side projects or open source libraries in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+     # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #assignments:
+     # - title: Velocity
+      #  link: "#hook"
+       # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+     # - title: DevStudio
+      #  link: "#"
+       # tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
+     # - title: Tempo
+      #  link: "#"
+      #  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+     # - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+     # - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+ #   title: Publications
+  #  intro: |
+   #   You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+     # bibendum fringilla a eu lectus.
+    #papers:
+     # - title: The Art of Computer Programming
+      #  link: "#"
+      #  authors: Donald E. Knuth
+      #  conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #  link: "#"
+      #  authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #  conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: A syntax directed compiler for Algol 60
+      #  link: "#"
+      #  authors: Edgar T. Irons
+      # conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Agile
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Amazon Web Services
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Avionics
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Integration & Test
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: MBSE/MBEA
+        level: 90%
+
+      - name: Communication Systems (SATCOM, Networking, LOS)
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: UAF / DoDAF / SysML
+        level: 95%
+      - name: VMware on AWS / VDI
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
