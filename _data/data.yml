@@ -75,21 +75,18 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Chief Systems Engineer/Architect
+      time: 2021 - Present
+      company: Leidos, Fort Detrick, MD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Support the US Army Medical Research Development Command to develop solutions and systems that meet
+        FDA regulations and policies.
+        Lead a team of 5 engineers to design, develop, integrate, and support various products across the
+        organization. 
+          - Responsible for the architectural governance for the program
+          - Create diagrams compliant with DoDAF and Unified Architecture Framework
+          - Responsible for the Systems Engineering process and management
+          - Perform SQL queries to update, sort, and display information
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
