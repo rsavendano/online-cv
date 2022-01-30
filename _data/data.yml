@@ -31,35 +31,30 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Dancing
         link:
 
-      - item: Cooking
+      - item: Web Design
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Results-driven systems architect and engineer as it relates to Communication Systems (SATCOM, Network TCP/IP, LOS), multi-tier applications, and Public Cloud offerings (AWS, Azure, Akamai). 
+      Mission focused leader with the ability to lead and influence direct-reports and external teams. 
+      Enjoy forecasting and creating strategic plans and product roadmaps to enable customer success and
+      mission execution. Experienced in agile methodologies such as: Kanban, Scrum, and SAFe.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MEng in Systems Engineering
+      university: Stevens Institute of Technology
+      time: 2016 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Electrical Engineering 
+      university: New York University
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
