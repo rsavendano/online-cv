@@ -79,36 +79,82 @@ experiences:
       time: 2021 - Present
       company: Leidos, Fort Detrick, MD
       details: |
-        Support the US Army Medical Research Development Command to develop solutions and systems that meet
-        FDA regulations and policies.
+        Support the US Army Medical Research Development Command to develop IT solutions and systems that meet FDA regulations and policies.
         Lead a team of 5 engineers to design, develop, integrate, and support various products across the
-        organization. 
-          - Responsible for the architectural governance for the program
-          - Create diagrams compliant with DoDAF and Unified Architecture Framework
-          - Responsible for the Systems Engineering process and management
-          - Perform SQL queries to update, sort, and display information
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        organization leveraging Enterprise Architecture. 
+          - Apply architectural and engineering concepts to design solutions that meet operational requirements, scalability, maintainability, security, reliability, availability, and manageability.
+          - Generate the strategic planning process by generating strategic initiatives, identifying dependencies and opportunities between capabilities 
+          - Develop and maintain relevant EA artifacts and store within the EA repository, including - current state architecture, standards, and capability maps
+
+    
+    - role: Lead Systems Engineer
+      time: 2020 - 2021
+      company: Raytheon Intelligence & Space, Dulles, VA
+      details: |
+          - Collaborate with domain architects, engineers, and leaders to document current state architecture, develop domain capability models, and technical roadmaps
+          - Prototyped (PoC), tested, and supported cloud-native solutions/products
+          - Developed executive presentations, solutions design documentation, and white papers for community use
+          - Provided final technical recommendations with regards to architectures/solutions to customer(s)
+          - Engaged with customers to understand the customers’ needs, business needs, and CONOPS for CONUS and OCONUS systems
+          - Provided technology leadership and strategy, including inputs to new capabilities, technical readiness, based on emerging technologies
+          - Developed standards, roadmaps, and provide direction across multiple business units
+          - Provided final technical recommendations with regards to architectures/solutions to customer(s)
+
+
+    - role: Communication Systems Architect Lead
+      time: 2018 - 2020
+      company: Northrop Grumman Corporation, Melbourne, Florida
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          -  Created and verified architectures that provided the blueprint for the engineering teams based on the goals, objectives, and requirements
+          - Demonstrated expertise and success in managing teams/design and delivering architectural solutions to meet platform requirements
+          - Successfully presented and generated content for customer presentations
+          - Adjudicated design artifacts, customer deliverables, and design decisions
+
+    
+    - role: Systems Engineer
+      time: 2016 - 2018
+      company: Northrop Grumman Corporation, Melbourne, Florida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Managed multiple projects and their associated schedules (MS Project)
+        - Performed requirements analysis, risk assessment, and set KPIs
+        - Responsible and directed decisions for the system/software lifecycle management from cradle to grave
+        
+    - role: Communication Systems Engineer
+      time: 2014 - 2016
+      company: Northrop Grumman Corporation, Brooklyn, NY
+      details: |
+        - Troubleshoot communication systems equipment by performing stress tests on cells
+        - Record all testing procedures and parameters conducted on hardware
+        - Work with customer to optimize communication systems network environment
+        - Obtained, managed, and optimized engineering tools licenses, license servers, and users
+        - Drove efficiencies through software/hardware improvement and root cause analysis resulting in service delivery for telecommunication systems
+        - Created documentation and process regarding recurring issues, new standard operating procedures, and knowledge transfer material
+        - Troubleshot software and hardware logs and prioritized trouble tickets
+
+
+    
+    - role: System Administrator
+      time: 2013 - 2016
+      company: New York University, Brooklyn, NY
+      details: |
+        - Managed and created user accounts using Active Directory Powershell script
+        - Maintained Windows images and managed patches across three laboratories
+        
+    - role: Systems Analyst Intern
+      time: 2013
+      company: Port Authority of NY & NJ, Queens, NY
+      details: |
+        - Conducted a systematic review of fire alarm systems, power substations, and generators at JFK Airport 
+        - Created multiple batch files to allow computers to switch between internal and external networks
+        - Managed the installation of a biometric system for contractors at JFK Airport
+
+
+
 projects:
     title: Projects
     intro: >
